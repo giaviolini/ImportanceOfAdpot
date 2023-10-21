@@ -1,4 +1,4 @@
-# Lists
+# Navagations and Photo Maps
 ## What I learned/practiced
 How to fancy-up a navigation bar and photo map
 
@@ -17,4 +17,4 @@ The generator made it very easy.
 3. Added the correct href for the page to the designated box
 4. Generated the Image Map and added it to my code.
 
-[Vist website here](https://giaviolini.github.io/Lists/)
+[Vist website here](https://giaviolini.github.io/NavandPhotoMap/)
